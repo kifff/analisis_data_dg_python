@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("dasboard/main_data.csv")
+df = pd.read_csv("main_data.csv")
 
 st.title("Dasboard peminjaman sepeda")
 
