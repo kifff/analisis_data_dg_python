@@ -1,12 +1,12 @@
-# Air Quality Analysis with Python
+# Bike Sharing Analysis with Python
 
 ## Dataset
 
-[Air Quality](https://drive.google.com/file/d/1oog6Hd21g0OTGKvhrWNbpn5Khow2eOlD/view?usp=sharing)
+[Bike Sharing](https://drive.google.com/file/d/1oog6Hd21g0OTGKvhrWNbpn5Khow2eOlD/view?usp=sharing)
 
 ## Dashboard
 
-Link dashboard : [https://luzuqpxpvn6uicgutrk9r2.streamlit.app/](https://luzuqpxpvn6uicgutrk9r2.streamlit.app/)
+Link dashboard : [https://kifff-analisis-data-dg-python-dasboarddasboard-qwar30.streamlit.app/](https://kifff-analisis-data-dg-python-dasboarddasboard-qwar30.streamlit.app/)
 
 ## Installation
 
@@ -30,6 +30,6 @@ Run Streamlit
 
 ## Authors
 
-- [@attmhd](https://github.com/kifff)
+- [@kifff](https://github.com/kifff)
 
-- Linkedin : [attmhd](https://www.linkedin.com/in/kifatul-najmi-a089151b8/)
+- Linkedin : [kifatul najmi](https://www.linkedin.com/in/kifatul-najmi-a089151b8/)
