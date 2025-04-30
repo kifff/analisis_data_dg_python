@@ -25,7 +25,7 @@ Move to Project
 Run Streamlit
 
 ```bash
-  streamlit run dashboard.py
+  streamlit run dasboard.py
 ```
 
 ## Authors
