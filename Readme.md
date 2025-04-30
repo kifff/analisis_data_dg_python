@@ -6,7 +6,7 @@
 
 ## Dashboard
 
-Link dashboard : [https://kifff-analisis-data-dg-python-dasboarddasboard-qwar30.streamlit.app/](https://kifff-analisis-data-dg-python-dasboarddasboard-qwar30.streamlit.app/)
+Link dashboard : [https://gz4dqtbfukanqz5wlnztmh.streamlit.app/](https://gz4dqtbfukanqz5wlnztmh.streamlit.app/)
 
 ## Installation
 
